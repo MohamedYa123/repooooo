@@ -1,0 +1,1 @@
+web: gunicorn medo.wsgi --log-file -
